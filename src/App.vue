@@ -33,7 +33,7 @@ export default {
         done: true,
       },
       {
-        text: 'Сделать приложение на vue',
+        text: 'Сделать приложение на Vue.js',
         done: false,
       },
     ],
